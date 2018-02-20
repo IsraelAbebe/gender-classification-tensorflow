@@ -20,3 +20,8 @@ tensorflow
 **to test with certain pics** = python predict.py --model "model/vggface-ft_gender.h5" --image "a.jpg"
 
 **to test with web-cam** = python cam.py
+
+
+
+
+### [Current Work](https://gitlab.com/Israel777/age_and_gender_experements)
